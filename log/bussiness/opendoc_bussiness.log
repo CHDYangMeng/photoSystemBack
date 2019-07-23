@@ -1,0 +1,4 @@
+2019-04-29 09:20:13.356 - INFO  [nio-9000-exec-1] c.j.C.userController           : getBussinessLogger===日志测试
+2019-04-29 09:23:13.053 - INFO  [nio-9000-exec-2] c.j.C.userController           : getBussinessLogger===日志测试
+2019-04-29 09:30:59.970 - INFO  [nio-9000-exec-4] c.j.C.userController           : getBussinessLogger===日志测试
+2019-04-29 22:03:04.196 - INFO  [nio-9000-exec-1] c.j.C.userController           : getBussinessLogger===日志测试
